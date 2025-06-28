@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+python-docx
+youtube-transcript-api
+requests
+beautifulsoup4
+transformers
+torch
